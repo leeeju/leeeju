@@ -25,7 +25,9 @@
 - 👨‍💻 저는 ubuntu20.04와 ros2 foxy를 사용해서 로봇 프로그래밍을 하고 있습니다.
 - 🌱 이미지 영상처리와 회귀분석에도 관심이 있어요!
 - 📫 혹시 연락 주고 싶으시다면: 02stu4@gmail.com 으로 연락 주세요.
-- ⚡️  저는 5년간의 군경력이 있으며 이를 바탕으로 군사용 드론 및 로봇 산업에 관심이 많습니다, 저의 감시장비 노하우와 프로그래밍의 결합을 기다리고 있습니다.
+- ⚡️  저는 5년간의 영상정보 군경력이 있으며 이를 바탕으로 군사용 드론 및 로봇 산업에 관심이 많습니다, 저의 감시장비 노하우와 프로그래밍의 결합을 기다리고 있습니다.
+     
+- ⚡️   GIS(지리공간정보), TOD(Thermal Observation Device), R/D(GPS_98k, GPS_95k), GSR(Ground Surveillance Radar) 의 대한 지식과 실전 경험이 있습니다.
 
 
 **언어 및 프레임워크:** 
@@ -35,5 +37,6 @@
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/samsung/samsung-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 
