@@ -4,6 +4,7 @@
 
 <img src="https://img.shields.io/badge/my_blog-3DDC84?style=flat-square&logo=my_blog&logoColor=white"/>
 
+
 # hi
 
 I'm an aspiring developer living in Korea. I've been learning
