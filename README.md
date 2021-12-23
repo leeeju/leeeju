@@ -6,11 +6,6 @@
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeeju)](https://hits.seeyoufarm.com) 
 
-
-my_master -->
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/greattoe)
-
-
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:02stu4@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCLSgng38L1zVYUgOHEe1yOg)](https://www.youtube.com/channel/UCLSgng38L1zVYUgOHEe1yOg)
 
@@ -31,7 +26,7 @@ my_master -->
 - 🌱 이미지 영상처리와 머신러닝에도 관심이 있어요!
 - 📫 혹시 연락 주고 싶으시다면: 02stu4@gmail.com 으로 연락 주세요.
 - ⚡️ 저는 5년간의 영상정보 군경력이 있으며 이를 바탕으로```군사용 드론 및 로봇 산업```에 관심이 많습니다, 저의 감시장비 노하우와 프로그래밍의 결합을 기다리고 있습니다.   
-- ⚡️ GIS(지리공간정보), TOD(Thermal Observation Device), R/D(GPS_98k, GPS_95k), GSR(Ground Surveillance Radar) 의 대한 지식과 실전 경험이 있습니다.
+- ⚡️ ```GIS```(지리공간정보), ```TOD```(Thermal Observation Device), ```R/D```(GPS_98k, GPS_95k), ```GSR```(Ground Surveillance Radar) 의 대한 지식과 실전 경험이 있습니다.
 - 💻 저의 활동 기록은 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCLSgng38L1zVYUgOHEe1yOg)](https://www.youtube.com/channel/UCLSgng38L1zVYUgOHEe1yOg) [<-- 클릭] 를 참조 하세요!!
 
 ### 💪 Skills
@@ -65,3 +60,6 @@ my_master -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
   
 ROBOTIS
+
+my_master -->
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/greattoe)  <--
