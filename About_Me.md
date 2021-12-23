@@ -1,3 +1,9 @@
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeju&show_icons=true&theme=radical)
+
+
+<img src="https://img.shields.io/badge/my_blog-3DDC84?style=flat-square&logo=my_blog&logoColor=white"/>
+
 # hi
 
 I'm an aspiring developer living in Korea. I've been learning
@@ -13,5 +19,6 @@ I want to learn and communicate with many experts. I'll try, it's better if you 
 저의 개인적인 공부 결과를 공유 하며 전문가 분들에게 피드백을 받고자 합니다.
 
 저의 유튜브 체널을 구경하세요, 
+
 
 :link: https://www.youtube.com/channel/UCLSgng38L1zVYUgOHEe1yOg/videos 
