@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232513F7&size=25&center=%EC%A7%84%EC%8B%A4&vCenter=%EA%B1%B0%EC%A7%93&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%3F+%EC%9D%B4%EC%A3%BC%ED%98%84%EC%9E%85%EB%8B%88%EB%8B%A4!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232513F7&size=25&center=%EC%A7%84%EC%8B%A4&vCenter=%EA%B1%B0%EC%A7%93&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%3F+%EC%9D%B4%EC%A3%BC%ED%98%84%EC%9E%85%EB%8B%88%EB%8B%A4!!)](https://git.io/typing-svg) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F73E13&size=25&center=%EC%A7%84%EC%8B%A4&vCenter=%EA%B1%B0%EC%A7%93&lines=%EC%A0%80%EB%8A%94+R.O.S+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4!!)](https://git.io/typing-svg)
 
