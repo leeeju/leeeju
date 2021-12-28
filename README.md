@@ -1,7 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232513F7&size=25&center=%EC%A7%84%EC%8B%A4&vCenter=%EA%B1%B0%EC%A7%93&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%3F+%EC%9D%B4%EC%A3%BC%ED%98%84%EC%9E%85%EB%8B%88%EB%8B%A4!!)](https://git.io/typing-svg)
 
-<!-- Your title -->
-## 안녕하세요 이주현입니다,  저는 R.O.S개발자 입니다!!
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F73E13&size=25&center=%EC%A7%84%EC%8B%A4&vCenter=%EA%B1%B0%EC%A7%93&lines=%EC%A0%80%EB%8A%94+R.O.S+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4!!)](https://git.io/typing-svg)
 
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeeju)](https://hits.seeyoufarm.com)   <-- 나의 git 방문자 현황
@@ -47,7 +46,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeju&show_icons=true&theme=radical)
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeeju&layout=compact)](https://github.com/leeeju/github-readme-stats)
 
 
 **나의 관심사** 
