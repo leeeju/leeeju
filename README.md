@@ -45,9 +45,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeju&show_icons=true&theme=radical)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leeeju&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeeju&layout=compact)](https://github.com/leeeju/github-readme-stats)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leeeju&theme=dracula)
 
 **나의 관심사** 
 
