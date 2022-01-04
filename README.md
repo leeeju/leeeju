@@ -8,11 +8,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:02stu4@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCLSgng38L1zVYUgOHEe1yOg)](https://www.youtube.com/channel/UCLSgng38L1zVYUgOHEe1yOg)
 
-![캡처](https://user-images.githubusercontent.com/84003327/148035002-3003c240-f298-43ae-a8c5-256ae9ec9021.PNG)  ![캡1처](https://user-images.githubusercontent.com/84003327/148035043-5707a4bb-9437-4163-8e18-db9e3e98ffdf.PNG)
-
-
-
-<!-- Talking about you -->
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -36,7 +31,7 @@
 <p>
 <img src="https://img.shields.io/badge/ros-3766AB?style=flat-square&logo=ros&logoColor=white"/>
 <img src="https://img.shields.io/badge/ros2-3766AB?style=flat-square&logo=ros2&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3766AB?style=flat-square&logo=Android&logoColor=white"/>	
+<img src="https://img.shields.io/badge/arduino-3766AB?style=flat-square&logo=arduino&logoColor=white"/>	
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=C&logoColor=white"/>	
