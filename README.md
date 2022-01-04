@@ -40,6 +40,7 @@
 <img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=C&logoColor=white"/>	
 <img src="https://img.shields.io/badge/deeplearning-3766AB?style=flat-square&logo=deeplearning&logoColor=white"/>
 <img src="https://img.shields.io/badge/STM32CubeIDE-3766AB?style=flat-square&logo=STM32CubeIDE&logoColor=white"/>
+<img src="https://img.shields.io/badge/embedded_system-3766AB?style=flat-square&logo=embedded_system&logoColor=white"/>		
 </p>
 
 **💪프레임워크:** 
