@@ -44,7 +44,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeju&show_icons=true&theme=radical)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leeeju&theme=dracula)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leeeju&theme=dracula) -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leeeju&theme=dracula)
 
