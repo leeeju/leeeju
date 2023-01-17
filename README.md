@@ -14,7 +14,7 @@
 
 &nbsp;
 
-**자기소개 :**
+**About Me :**
 
 - 👨🏽‍💻 I am a junior developer living in South Korea
 - 💻 I am currently working on autonomous driving (SLAM) and robot control through vision in Seoul 
@@ -23,7 +23,7 @@
 - 📫 If you would like to contact me, please contact me at 02stu4@gmail.com.
 - ⚡️ I have 5 years of experience in Image Information  military career, and based on this```Military drones and robotics industry```I'm very interested in it, and I'm waiting for the combination of my monitoring equipment know-how and programming.   
 - ⚡️ ```GIS```(Geographic Information System), ```TOD```(Thermal Observation Device), ```R/D```(GPS_98k, GPS_95k), ```GSR```(Ground Surveillance Radar) ```Army Surveillance Asset Management```(Republic of Korea army) Military Knowledge and practical experience of equipment operation have possession
-- 💻 My activity record is [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCLSgng38L1zVYUgOHEe1yOg)](https://www.youtube.com/channel/UCLSgng38L1zVYUgOHEe1yOg) <-- click!! ⚡️영상기록은 자주 업로드 됩니다.⚡️
+- 💻 My activity record is [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCLSgng38L1zVYUgOHEe1yOg)](https://www.youtube.com/channel/UCLSgng38L1zVYUgOHEe1yOg) <-- click!! ⚡️The video record will be uploaded little by little⚡️
 
 
 ### 💪 Skills
@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/embedded_system-3766AB?style=flat-square&logo=embedded_system&logoColor=white"/>		
 </p>
 
-**💪프레임워크:** 
+**💪framework** 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeju&show_icons=true&theme=radical)
 
@@ -49,7 +49,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leeeju&theme=dracula)
 
-**나의 관심사** 
+**my interest** 
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
