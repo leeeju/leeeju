@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F73E13&size=25&center=%EC%A7%84%EC%8B%A4&vCenter=%EA%B1%B0%EC%A7%93&lines=%EC%A0%80%EB%8A%94+R.O.S+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4!!)](https://git.io/typing-svg)
 
 	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeeju)](https://hits.seeyoufarm.com)   <-- 나의 git 방문자 현황
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeeju)](https://hits.seeyoufarm.com)   <-- Today's git visitors
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:02stu4@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCLSgng38L1zVYUgOHEe1yOg)](https://www.youtube.com/channel/UCLSgng38L1zVYUgOHEe1yOg)
@@ -16,14 +16,14 @@
 
 **자기소개 :**
 
-- 👨🏽‍💻 저는 대한민국에 살고 있는 주니어 개발자 입니다.
-- 💻 저는 지금 서울에서 자율주행(SLAM)과 vision을 통한 로봇제어를 하면서 현업에 종사중입니다 
-- 👨‍💻 저는 ubuntu20.04 and ubuntu22.04 ros2 foxy를 사용해서 로봇 프로그래밍을 하고 있습니다.
-- 🌱 💪 이미지 영상처리와 deep러닝에도 관심이 있어요!
-- 📫 혹시 연락 주고 싶으시다면: 02stu4@gmail.com 으로 연락 주세요.
-- ⚡️ 저는 5년간의 영상정보 군경력이 있으며 이를 바탕으로```군사용 감시드론 및 로봇 산업```에 관심이 많습니다, 저의 감시장비 노하우와 프로그래밍의 결합을 기다리고 있습니다.   
-- ⚡️ ```GIS```(Geographic Information System), ```TOD```(Thermal Observation Device), ```R/D```(GPS_98k, GPS_95k), ```GSR```(Ground Surveillance Radar) ```육군감시장비운영```(Republic of Korea army) 의 대한 지식과 실전 경험이 있습니다.
-- 💻 저의 활동 기록은 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCLSgng38L1zVYUgOHEe1yOg)](https://www.youtube.com/channel/UCLSgng38L1zVYUgOHEe1yOg) <-- 클릭 를 참조 하세요!! ⚡️영상기록은 자주 업로드 됩니다.⚡️
+- 👨🏽‍💻 I am a junior developer living in South Korea
+- 💻 I am currently working on autonomous driving (SLAM) and robot control through vision in Seoul 
+- 👨‍💻 I am programming the robot using ubuntu20.04 and ubuntu22.04 and foxy and humble.
+- 🌱 💪 I'm also interested in image processing and deep learning.
+- 📫 If you would like to contact me, please contact me at 02stu4@gmail.com.
+- ⚡️ I have 5 years of experience in Image Information  military career, and based on this```Military drones and robotics industry```I'm very interested in it, and I'm waiting for the combination of my monitoring equipment know-how and programming.   
+- ⚡️ ```GIS```(Geographic Information System), ```TOD```(Thermal Observation Device), ```R/D```(GPS_98k, GPS_95k), ```GSR```(Ground Surveillance Radar) ```Army Surveillance Asset Management```(Republic of Korea army) Military Knowledge and practical experience of equipment operation have possession
+- 💻 My activity record is [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCLSgng38L1zVYUgOHEe1yOg)](https://www.youtube.com/channel/UCLSgng38L1zVYUgOHEe1yOg) <-- click!! ⚡️영상기록은 자주 업로드 됩니다.⚡️
 
 
 ### 💪 Skills
