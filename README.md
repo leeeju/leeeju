@@ -43,7 +43,7 @@
 
 **💪framework** 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeju&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeju&show_icons=true&theme=radical) -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leeeju&theme=dracula)
 
