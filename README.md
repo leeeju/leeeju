@@ -31,14 +31,14 @@
 
 <p>
 <img src="https://img.shields.io/badge/ros-3766AB?style=flat-square&logo=ros&logoColor=white"/>
-<img src="https://img.shields.io/badge/ros2-3766AB?style=flat-square&logo=ros2&logoColor=white"/>
-<img src="https://img.shields.io/badge/micro ros-3766AB?style=flat-square&logo=STM32CubeIDE&logoColor=white"/>
-<img src="https://img.shields.io/badge/arduino-3766AB?style=flat-square&logo=arduino&logoColor=white"/>	
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=C&logoColor=white"/>	
-<img src="https://img.shields.io/badge/deeplearning-3766AB?style=flat-square&logo=deeplearning&logoColor=white"/>
-<img src="https://img.shields.io/badge/embedded_system-3766AB?style=flat-square&logo=embedded_system&logoColor=white"/>		
+<img src="https://img.shields.io/badge/ros2-3766AB?style=flat-square&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/micro%20ros-3766AB?style=flat-square&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/arduino-3766AB?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/deep%20learning-3766AB?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/embedded%20system-3766AB?style=flat-square&logo=embedded&logoColor=white"/>	
 </p>
 
 **💪framework** 
