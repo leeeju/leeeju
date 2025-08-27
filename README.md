@@ -16,7 +16,7 @@
 
 **About Me :**
 
-- 👨🏽‍💻 I am a junior developer living in South Korea
+- 👨🏽‍💻 I am a developer living in South Korea
 - 💻 I am currently working on autonomous driving (SLAM) and robot control through vision in Seoul 
 - 👨‍💻 I am programming the robot using ubuntu20.04 and ubuntu22.04 and foxy and humble.
 - 🌱 💪 I'm also interested in image processing and deep learning.
