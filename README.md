@@ -2,9 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F73E13&size=25&center=%EC%A7%84%EC%8B%A4&vCenter=%EA%B1%B0%EC%A7%93&lines=%EC%A0%80%EB%8A%94+R.O.S+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4!!)](https://git.io/typing-svg)
 
-	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeeju)](https://hits.seeyoufarm.com)   <-- Today's git visitors
-
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:02stu4@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCLSgng38L1zVYUgOHEe1yOg)](https://www.youtube.com/channel/UCLSgng38L1zVYUgOHEe1yOg)
 
