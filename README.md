@@ -13,12 +13,11 @@
 
 **About Me :**
 
-- 👨🏽‍💻 I am a developer living in South Korea
-- 💻 I am currently working on autonomous driving (SLAM) and robot control through vision in Seoul 
-- 👨‍💻 I am programming the robot using ubuntu20.04 and ubuntu22.04 and foxy and humble.
-- 🌱 💪 I'm also interested in image processing and deep learning.
-- 📫 If you would like to contact me, please contact me at 02stu4@gmail.com.
-- ⚡️ I have 5 years of experience in Image Information  military career, and based on this```Military drones and robotics industry```I'm very interested in it, and I'm waiting for the combination of my monitoring equipment know-how and programming.   
+- 💻 저는 현재 대전에서 자율주행(SLAM)과 비전 기반 로봇 제어 연구를 진행하고 있습니다. 
+- 👨‍💻 저는 우분투 22.04, Humble을 사용하여 로봇을 프로그래밍하고 있습니다.
+- 🌱 💪 저도 이미지 처리와 딥러닝에 관심이 있습니다.
+- 📫 저에게 연락을 원하시면 02stu4@gmail.com으로 연락해 주시기 바랍니다
+- ⚡️ 저는 군 복무 기간 동안 5년간 영상 정보 분야에서 경력을 쌓았으며, 이를 바탕으로```군용 드론 및 로봇 산업```에 큰 관심을 가지고 있습니다. 또한 제가 보유한 감시 장비 관련 노하우와 프로그래밍 기술을 접목할 기회를 기다리고 있습니다.
 - ⚡️ ```GIS```(Geographic Information System), ```TOD```(Thermal Observation Device), ```R/D```(GPS_98k, GPS_95k), ```GSR```(Ground Surveillance Radar) ```Army Surveillance Asset Management```(Republic of Korea army) Military Knowledge and practical experience of equipment operation have possession
 - 💻 My activity record is [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCLSgng38L1zVYUgOHEe1yOg)](https://www.youtube.com/channel/UCLSgng38L1zVYUgOHEe1yOg) <-- click!! ⚡️The video record will be uploaded little by little⚡️
 
